@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/4/A
+'''
 a = input()
 cont = 0
 count = 0
