@@ -1,5 +1,5 @@
 '''
-Link da questão: https://codeforces.com/problemset/problem/4/A
+Link da questão: https://codeforces.com/problemset/problem/110/A
 '''
 a = input()
 cont = 0
