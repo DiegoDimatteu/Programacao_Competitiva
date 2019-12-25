@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/160/A
+'''
 import math
  
 n = int(input())
