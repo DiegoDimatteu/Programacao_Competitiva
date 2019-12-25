@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/1249/A
+'''
 a = int(input())
 count = 1
 for i in range (a):
