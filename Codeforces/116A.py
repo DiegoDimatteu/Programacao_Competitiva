@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/116/A
+'''
 a = int(input())
 i = 0
 b, c = [int (i) for i in input().split()]
