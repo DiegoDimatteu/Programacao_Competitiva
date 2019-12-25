@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/122/A
+'''
 a = int(input())
 saida = 0
 if(a % 4 == 0) or (a % 7 == 0):
