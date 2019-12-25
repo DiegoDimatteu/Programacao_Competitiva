@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/112/A
+'''
 a = input()
 b = input()
  
