@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/118/A
+'''
 a = input()
 i = 0
 b = []
