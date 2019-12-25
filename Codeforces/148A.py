@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/148/A
+'''
 k = int(input())
 l = int(input())
 m = int(input())
