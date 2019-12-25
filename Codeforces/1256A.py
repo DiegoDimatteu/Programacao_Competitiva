@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/1256/A
+'''
 rep = int(input())
 for j in range (rep):
 	a, b, n, s = [int(i) for i in input().split()]
