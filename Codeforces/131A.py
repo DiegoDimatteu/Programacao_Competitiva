@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/131/A
+'''
 a = input()
 if len(a) == 1 and a.islower():
 	print(a.upper())
