@@ -1,3 +1,6 @@
+'''
+Link da questão: https://codeforces.com/problemset/problem/158/A
+'''
 n = int(input())
 for i in range (n):
 	s = input()
